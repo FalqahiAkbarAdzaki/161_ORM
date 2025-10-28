@@ -19,7 +19,7 @@ module.exports = (sequelize, DataTypes) => {
         }
     }, {
         tableName: 'komik',
-        timestamps: false
+        timestamps: false,
         freezeTableName: true
     });
     return Komik;
