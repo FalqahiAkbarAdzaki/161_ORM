@@ -1,0 +1,6 @@
+![Tampilan POST](Hasil_POST_ORM.png)
+![Tampilan GET](Hasil_Get_ORM.png)
+![Tampilan Update/PUT](Hasil_PUT_ORM.png)
+![Tampilan hasil Update/PUT](Hasil_GET_Akhir.png)
+![Tampilan Delete/DELETE](Hasil_Delete_ORM.png)
+![Tampilan hasil setelah DELETE](Hasil_GET_Pasca_Delete.png)
